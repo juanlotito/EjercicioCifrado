@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "k0eHkIRz1jaiCsMIZRKiSirt+roBKqmLhVRn2KUEye0dmTcyOUOjjlpWkSaJcG68bORqFDT05FyQIf9KvkLdoA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jualotit\\source\\repos\\Test\\Test\\Test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jualotit\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
